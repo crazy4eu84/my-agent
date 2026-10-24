@@ -1,0 +1,30 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Installed dependencies
+node_modules/
+
+# Local accounts, conversations, and memory
+.codex/
+account/
+accounts/
+chat/
+chats/
+conversation/
+conversations/
+memory/
+memories/
+personal/
+private/
+user-data/
+account.json
+accounts.json
+auth.json
+chats.json
+conversations.json
+credentials.json
+memory.json
+memories.json
+tokens.json
